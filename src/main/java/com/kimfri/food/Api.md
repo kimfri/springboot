@@ -3,7 +3,7 @@
 ## Table of content
 * [Get](#get)
 * [Student](#student)
-* [What](#what)
+* [Tod](#todo)
 
 ## Get
 
@@ -24,4 +24,7 @@ public class Student {
 }
 ```
 
-## What
+## Todo
+
+* [ ] Task #1
+* [x] Task #2
